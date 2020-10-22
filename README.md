@@ -9,3 +9,4 @@
 1. [作者的TensorFlow版本代码](https://github.com/omitakahiro/NeuralNetworkPointProcess)
 2. [RNN中参数的理解](https://stackoverflow.com/questions/48302810/whats-the-difference-between-hidden-and-output-in-pytorch-lstm)
 3. [Pytorch中数据的读取](https://zhuanlan.zhihu.com/p/30385675)
+4. [论文 Fully Neural Network based Model for General Temporal Point Processes](https://omitakahiro.github.io/files/slide/Omi2019_Neurips.pdf)
